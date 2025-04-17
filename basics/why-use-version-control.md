@@ -75,5 +75,3 @@ El control de versiones es esencial en proyectos individuales o colaborativos, e
 - Dominar sistemas como Git abre oportunidades profesionales.
 
 ---
-
-# add this
